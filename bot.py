@@ -35,5 +35,5 @@ def create_tables(database, pars_oop):
 bot.setup_middleware(SimpleMiddleware(0.5)) # bu botga qayta qayta yozmaslik uchun limit(sekundda) kiritiladi
 
 if __name__ == '__main__':
-    create_tables(db, OpenShopParser)
+#     create_tables(db, OpenShopParser)
     bot.infinity_polling()
