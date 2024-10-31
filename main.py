@@ -6,3 +6,5 @@ print("Text qabul qilindi!!!")
 print("Dastur to'xtadi")
 
 print("Nima gaplar")
+
+print("test 2")
